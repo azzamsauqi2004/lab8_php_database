@@ -86,3 +86,11 @@ if (isset($_POST['submit']))
 
     </body>
 </html>
+
+
+
+3. Ubah barang
+
+   ![image](https://github.com/azzamsauqi2004/lab8_php_database/assets/116098921/b2c84872-817a-4c82-8914-bab9a2e72d40)
+
+
